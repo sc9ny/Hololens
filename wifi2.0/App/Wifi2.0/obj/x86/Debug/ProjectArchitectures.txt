@@ -1,0 +1,2 @@
+C:\Users\Macizm\Desktop\Grad Stuff\AR - VR Research\Wifi2.0\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Macizm\Desktop\Grad Stuff\AR - VR Research\Wifi2.0\App\Wifi2.0\Wifi2.0.csproj;x86

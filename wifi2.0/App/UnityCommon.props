@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Wifi2.0</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Macizm\Desktop\Grad Stuff\AR - VR Research\Wifi2.0\App\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Macizm\Desktop\Grad Stuff\AR - VR Research\Wifi2.0\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
